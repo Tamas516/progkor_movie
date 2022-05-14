@@ -163,7 +163,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/Tamas516/progkor_movie</url>
+            <url>https://maven.pkg.github.com/tamas516/progkor_movie</url>
         </repository>
     </distributionManagement>
 
