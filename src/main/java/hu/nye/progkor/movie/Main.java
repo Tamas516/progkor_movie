@@ -1,4 +1,4 @@
-package hu.nye.progkor.movie.spring.boot;
+package hu.nye.progkor.movie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

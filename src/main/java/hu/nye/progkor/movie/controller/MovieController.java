@@ -1,4 +1,4 @@
-package hu.nye.progkor.movie.spring.boot.controller;
+package hu.nye.progkor.movie.controller;
 
 import java.util.List;
 
