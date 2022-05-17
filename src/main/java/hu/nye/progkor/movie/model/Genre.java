@@ -8,8 +8,6 @@ public enum Genre {
     drama,
     action,
     fantasy,
-    comedy,
-    scifi,
     animated
 
 }
